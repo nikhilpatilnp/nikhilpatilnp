@@ -50,7 +50,6 @@
 
 ###
 
-<img src="https://github.com/nikhilpatilnp/nikhilpatilnp/blob/main/snake.yml>
 
 ###
 
