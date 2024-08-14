@@ -50,7 +50,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nikhilpatilnp/nikhilpatilnp/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/nikhilpatilnp/nikhilpatilnp/blob/main/snake.yml>
 
 ###
 
